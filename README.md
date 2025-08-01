@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer and Machine Learning Engineer with expertise in NLP, ML, and computational semantics. I love turning complex data into actionable insights and building intelligent systems that make a real impact.
+I am a rising senior at Brandeis University pursuing a BS in Computer Science and a BA in Psychology, with minors in Linguistics and Philosophy. I am interested in the cross-sections of these disciplines, and how they affect human understanding and actions. I'd love to connect and talk above any of the above!
 
 **What I'm currently working on:**
-- 🎓 Senior year of college majoring in CS & Psychology with minors in Philosophy and Linguistics @ Brandeis University
+- 🎓 Senior year of college @ Brandeis University
 - 🔬 Exploring software testing techniques at a summer internship
 - 📚 Learning new ML frameworks and methodologies
 
