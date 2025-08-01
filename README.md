@@ -77,6 +77,24 @@ Utilized JavaSwingLibrary to present the CLI as a three panel GUI with n-gram pr
 **Technologies:** Java, JavaSwingLibrary, N-gram modeling
 
 
+---
+
+### 🔐 RSA Encryption and Digital Signature Protocol
+**Repository:** rsa-encryption-digital-signature
+
+Implemented a comprehensive RSA encryption and digital signature system with interactive key generation and message processing.
+
+**Key Features:**
+- Complete RSA key pair generation with prime number validation
+- Block-based message encryption and decryption
+- Digital signature creation and verification
+- Secure message transmission between users
+- Interactive command-line interface with 8 different operations
+- Extended Euclidean algorithm for modular inverse calculation
+
+**Technologies:** Python, Cryptography, Mathematical algorithms
+
+
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
