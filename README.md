@@ -12,7 +12,7 @@ I am a rising senior at Brandeis University pursuing a Bachelor of Science in Co
 
 **Career Interests:**
 
-- Full-time Software Engineering, ML Engineering, or Software Testing Engineering positions (New Grad 2025)
+- Full-time Software Engineering, ML Engineering, Systems Engineering, or Data Science positions (New Grad 2026)
 - Seeking mentorship and professional growth opportunities
 
 ## Connect With Me
