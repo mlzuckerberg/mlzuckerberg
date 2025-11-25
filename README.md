@@ -2,12 +2,12 @@
 
 ## About Me
 
-I am a rising senior at Brandeis University pursuing a Bachelor of Science in Computer Science and a Bachelor of Arts in Psychology, with minors in Linguistics and Philosophy. My academic interests lie at the intersection of these disciplines, exploring how computational methods can enhance our understanding of human cognition and behavior. I am passionate about building robust software systems and applying machine learning techniques to solve real-world problems.
+I am a senior at Brandeis University pursuing a Bachelor of Science in Computer Science and a Bachelor of Arts in Psychology, with minors in Linguistics and Philosophy. My academic interests lie at the intersection of these disciplines, exploring how computational methods can enhance our understanding of human cognition and behavior. I am passionate about building robust software systems and applying machine learning techniques to solve real-world problems.
 
 **Current Focus:**
 
 - Completing senior year at Brandeis University
-- Software testing and quality assurance at a summer internship
+- Computer networking
 - Advancing expertise in machine learning frameworks and methodologies
 
 **Career Interests:**
