@@ -1,153 +1,162 @@
-# 👋 Hi there, I'm Michelle Zuckerberg
+# Hi there, I'm Michelle Zuckerberg
 
-## 🚀 About Me
+## About Me
 
-I am a rising senior at Brandeis University pursuing a BS in Computer Science and a BA in Psychology, with minors in Linguistics and Philosophy. I am interested in the cross-sections of these disciplines, and how they affect human understanding and actions. I'd love to connect and talk above any of the above!
+I am a rising senior at Brandeis University pursuing a Bachelor of Science in Computer Science and a Bachelor of Arts in Psychology, with minors in Linguistics and Philosophy. My academic interests lie at the intersection of these disciplines, exploring how computational methods can enhance our understanding of human cognition and behavior. I am passionate about building robust software systems and applying machine learning techniques to solve real-world problems.
 
-**What I'm currently working on:**
-- 🎓 Senior year of college @ Brandeis University
-- 🔬 Exploring software testing techniques at a summer internship
-- 📚 Learning new ML frameworks and methodologies
+**Current Focus:**
 
-**What I'm looking for:**
-- 💼 Full-time new grad positions in Software Engineering, ML Engineering, or Software Testing Engineering
-- 📈 Mentorship and growth opportunities
+- Completing senior year at Brandeis University
+- Software testing and quality assurance at a summer internship
+- Advancing expertise in machine learning frameworks and methodologies
 
-## 🔗 Connect With Me
+**Career Interests:**
+
+- Full-time Software Engineering, ML Engineering, or Software Testing Engineering positions (New Grad 2025)
+- Seeking mentorship and professional growth opportunities
+
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-zuckerberg/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlzuckerberg@gmail.com)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlzuckerberg&show_icons=true&theme=radical" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mlzuckerberg&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlzuckerberg&theme=radical" alt="GitHub Streak">
+
 </div>
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🎯 Fall AI Studio Project - Coming Soon
+### Fall AI Studio Project - Coming Soon
 
 ---
 
-### 📈 Event Discovery and Semantic Relevance Ranking
-**Repository:** event-discovery-semantic-ranking
+### Event Discovery and Semantic Relevance Ranking
 
-Designed and implemented an MVP solution in Python to automate the discovery and ranking of industry events based on strategic marketing criteria.
+**Repository:** [event-discovery-semantic-ranking](https://github.com/mlzuckerberg/event-discovery-semantic-ranking)
+
+Designed and implemented an MVP solution in Python to automate the discovery and ranking of industry events based on strategic marketing criteria. The system processes JSON inputs, validates data, and employs semantic matching algorithms to score events across multiple dimensions.
 
 **Key Features:**
-- Automated event discovery and ranking system
-- JSON input parsing and validation
-- Scoring algorithm for audience fit, industry relevance, and budget constraints
+
+- Automated event discovery and intelligent ranking system
+- JSON input parsing with comprehensive validation
+- Multi-criteria scoring algorithm (audience fit, industry relevance, budget constraints)
 - Semantic matching using spaCy and scikit-learn
 
 **Technologies:** Python, spaCy, scikit-learn, JSON processing
 
-
 ---
 
-### 🤖 Sentiment Analysis Using Dependency Weighting
-**Repository:** sentiment-analysis-dependency-weighting
+### Sentiment Analysis Using Dependency Weighting
 
-Developed a novel sentiment analysis model that weights word vectors based on their dependency relationships within sentences, achieving improved accuracy over baseline models.
+**Repository:** [sentiment-analysis-dependency-weighting](https://github.com/mlzuckerberg/sentiment-analysis-dependency-weighting)
+
+Developed a novel sentiment analysis model that weights word vectors based on their dependency relationships within sentences. The approach achieved improved accuracy over baseline models by leveraging syntactic structure to enhance semantic understanding.
 
 **Key Features:**
-- Novel dependency-weighted sentiment analysis
+
+- Novel dependency-weighted sentiment analysis algorithm
 - Data preprocessing pipeline for 700+ restaurant reviews
-- Modular codebase with training, evaluation, and analysis components
+- Modular architecture with training, evaluation, and analysis components
 - Comprehensive evaluation framework with performance metrics
 
 **Technologies:** Python, spaCy, scikit-learn, pickle serialization
 
-
 ---
 
-### 💻 CLI as GUI - N-gram Command Prediction
-**Repository:** cli-gui-ngram-prediction
+### CLI as GUI - N-gram Command Prediction
 
-Utilized JavaSwingLibrary to present the CLI as a three panel GUI with n-gram prediction model for command suggestions.
+**Repository:** [cli-gui-ngram-prediction](https://github.com/mlzuckerberg/cli-gui-ngram-prediction)
+
+Developed a three-panel GUI application using JavaSwingLibrary that presents command-line interface functionality with intelligent command prediction. The system utilizes n-gram modeling to provide contextual command suggestions.
 
 **Key Features:**
-- Three-panel GUI design
+
+- Three-panel GUI design with terminal integration
 - N-gram prediction model for command suggestions
-- Terminal integration
-- Man pages display
+- Real-time terminal emulation
+- Integrated man pages display
 
 **Technologies:** Java, JavaSwingLibrary, N-gram modeling
 
-
 ---
 
-### 🔐 RSA Encryption and Digital Signature Protocol
-**Repository:** rsa-encryption-digital-signature
+### RSA Encryption and Digital Signature Protocol
 
-Implemented a comprehensive RSA encryption and digital signature system with interactive key generation and message processing.
+**Repository:** [rsa-encryption-digital-signature](https://github.com/mlzuckerberg/rsa-encryption-digital-signature)
+
+Implemented a comprehensive RSA encryption and digital signature system with secure key generation and message processing. The system provides a complete cryptographic solution for secure communication.
 
 **Key Features:**
-- Complete RSA key pair generation with prime number validation
+
+- RSA key pair generation with prime number validation
 - Block-based message encryption and decryption
 - Digital signature creation and verification
-- Secure message transmission between users
-- Interactive command-line interface with 8 different operations
+- Secure message transmission protocol
+- Interactive command-line interface with 8 distinct operations
 - Extended Euclidean algorithm for modular inverse calculation
 
 **Technologies:** Python, Cryptography, Mathematical algorithms
 
-
-## 🛠️ Skills & Technologies
+## Technical Skills
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Testing & Quality Assurance
+
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 
-### Machine Learning & AI
+### Machine Learning & Data Science
+
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-## 📈 Recent Activity
+## Recent Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlzuckerberg&theme=react-dark" alt="Activity Graph">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mlzuckerberg&theme=react-dark" alt="Activity Graph">
+
 </div>
 
-## 🏅 Certifications & Achievements
+## Certifications
 
-- **Machine Learning Foundation Certificate** - eCornell (May 2025-Present)
+- **Machine Learning Foundation Certificate** - eCornell (In Progress)
 
-## 📚 Currently Learning
+## Currently Learning
 
-- Advanced NLP techniques
-- Deep learning frameworks
-- Software testing methodologies
-- System design principles
+- Advanced Natural Language Processing techniques and transformer architectures
+- Deep learning frameworks (PyTorch, TensorFlow)
+- Software testing methodologies and test automation best practices
+- System design principles and distributed systems
 
+## Contact
 
-## 📫 Get In Touch
-
-- **Email:** mlzuckerberg@gmail.com
 - **LinkedIn:** [Michelle Zuckerberg](https://www.linkedin.com/in/michelle-zuckerberg/)
 - **Location:** Waltham, MA, USA
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mlzuckerberg&style=flat-square&color=blue" alt="Profile Views">
-  
-  *Thanks for visiting my profile! Feel free to star my repositories and connect with me.* ⭐
-</div> 
+
+<img src="https://komarev.com/ghpvc/?username=mlzuckerberg&style=flat-square&color=blue" alt="Profile Views">
+
+  *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+</div>
