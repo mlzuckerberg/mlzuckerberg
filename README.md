@@ -19,15 +19,6 @@ I am a senior at Brandeis University pursuing a Bachelor of Science in Computer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-zuckerberg/)
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mlzuckerberg&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlzuckerberg&theme=radical" alt="GitHub Streak">
-
-</div>
-
 ## Featured Projects
 
 ### Neural-Symbolic Planning: STRIPS Planner
