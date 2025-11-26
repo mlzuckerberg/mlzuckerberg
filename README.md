@@ -2,23 +2,22 @@
 
 ## About Me
 
-I am a rising senior at Brandeis University pursuing a Bachelor of Science in Computer Science and a Bachelor of Arts in Psychology, with minors in Linguistics and Philosophy. My academic interests lie at the intersection of these disciplines, exploring how computational methods can enhance our understanding of human cognition and behavior. I am passionate about building robust software systems and applying machine learning techniques to solve real-world problems.
+I am a senior at Brandeis University pursuing a Bachelor of Science in Computer Science and a Bachelor of Arts in Psychology, with minors in Linguistics and Philosophy. My academic interests lie at the intersection of these disciplines, exploring how computational methods can enhance our understanding of human cognition and behavior. I am passionate about building robust software systems and applying machine learning techniques to solve real-world problems.
 
 **Current Focus:**
 
 - Completing senior year at Brandeis University
-- Software testing and quality assurance at a summer internship
+- Learning about computer networking
 - Advancing expertise in machine learning frameworks and methodologies
 
 **Career Interests:**
 
-- Full-time Software Engineering, ML Engineering, or Software Testing Engineering positions (New Grad 2025)
+- Full-time Software Engineering, ML Engineering, Systems Engineering, or Data Science positions (New Grad 2026)
 - Seeking mentorship and professional growth opportunities
 
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-zuckerberg/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlzuckerberg@gmail.com)
 
 ## GitHub Stats
 
@@ -159,13 +158,6 @@ Implemented a comprehensive RSA encryption and digital signature system with sec
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
 ## Recent Activity
 
 <div align="center">
@@ -177,13 +169,6 @@ Implemented a comprehensive RSA encryption and digital signature system with sec
 ## Certifications
 
 - **Machine Learning Foundation Certificate** - Cornell
-
-## Currently Learning
-
-- Advanced Natural Language Processing techniques and transformer architectures
-- Deep learning frameworks (PyTorch, TensorFlow)
-- Software testing methodologies and test automation best practices
-- System design principles and distributed systems
 
 ## Contact
 
