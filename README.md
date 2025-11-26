@@ -2,17 +2,17 @@
 
 ## About Me
 
-I am a senior at Brandeis University pursuing a Bachelor of Science in Computer Science and a Bachelor of Arts in Psychology, with minors in Linguistics and Philosophy. My academic interests lie at the intersection of these disciplines, exploring how computational methods can enhance our understanding of human cognition and behavior. I am passionate about building robust software systems and applying machine learning techniques to solve real-world problems.
+I am a rising senior at Brandeis University pursuing a Bachelor of Science in Computer Science and a Bachelor of Arts in Psychology, with minors in Linguistics and Philosophy. My academic interests lie at the intersection of these disciplines, exploring how computational methods can enhance our understanding of human cognition and behavior. I am passionate about building robust software systems and applying machine learning techniques to solve real-world problems.
 
 **Current Focus:**
 
 - Completing senior year at Brandeis University
-- Computer networking
+- Software testing and quality assurance at a summer internship
 - Advancing expertise in machine learning frameworks and methodologies
 
 **Career Interests:**
 
-- Full-time Software Engineering, ML Engineering, Systems Engineering, or Data Science positions (New Grad 2026)
+- Full-time Software Engineering, ML Engineering, or Software Testing Engineering positions (New Grad 2025)
 - Seeking mentorship and professional growth opportunities
 
 ## Connect With Me
@@ -31,7 +31,39 @@ I am a senior at Brandeis University pursuing a Bachelor of Science in Computer 
 
 ## Featured Projects
 
-### Fall AI Studio Project - Coming Soon
+### Neural-Symbolic Planning: STRIPS Planner
+
+**Repository:** [neural-symbolic-planner](https://github.com/mlzuckerberg/neural-symbolic-planner)
+
+Implemented a STRIPS (Stanford Research Institute Problem Solver) planner component for solving the classic monkey-banana problem using PDDL (Planning Domain Definition Language). The planner generates optimal action sequences to achieve goals in symbolic planning domains.
+
+**Key Features:**
+
+- PDDL domain and problem definitions for monkey-banana scenarios
+- Integration with Pyperplan for automated planning
+- Support for multiple search algorithms (BFS, A*, Greedy Best-First)
+- Comprehensive documentation of planning domain and actions
+- Example problems with generated solutions
+
+**Technologies:** Python, PDDL, STRIPS Planning, Pyperplan
+
+---
+
+### Emotional Sentiment Analysis in Social Media
+
+**Repository:** [emotional-sentiment-analysis-social-media](https://github.com/mlzuckerberg/emotional-sentiment-analysis-social-media)
+
+R-based statistical analysis exploring the relationship between linguistic features (vocabulary diversity, punctuation frequency) and emotional sentiment expression in social media text using the Sentiment140 dataset.
+
+**Key Features:**
+
+- Correlation analysis between vocabulary diversity and sentiment scores
+- Group comparison analysis for punctuation frequency effects
+- Data preprocessing pipeline for 3,000+ English-language tweets
+- Comprehensive statistical analysis with visualizations
+- HTML report with complete findings and interpretations
+
+**Technologies:** R, R Markdown, Statistical Analysis, Data Visualization
 
 ---
 
@@ -127,6 +159,13 @@ Implemented a comprehensive RSA encryption and digital signature system with sec
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 ## Recent Activity
 
 <div align="center">
@@ -137,7 +176,7 @@ Implemented a comprehensive RSA encryption and digital signature system with sec
 
 ## Certifications
 
-- **Machine Learning Foundation Certificate** - eCornell (In Progress)
+- **Machine Learning Foundation Certificate** - Cornell
 
 ## Currently Learning
 
